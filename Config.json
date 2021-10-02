@@ -1,0 +1,122 @@
+{
+	"Clientside": {
+		"Audio": {
+			"AudioEffects": {
+				"allowLegacyReverb": false,
+				"lowPassEffectScale": 1.0,
+				"reverbEffectScale": 1.0
+			},
+			"Music": {
+				"enableBloomingEvilMusic": true,
+				"enableConsoleOST": true,
+				"enableMusicRemixes": true,
+				"enableTownMusic": true,
+				"overhaulMusicVolumeScale": 1.0
+			},
+			"Sounds": {
+				"enableAttackGrunts": true,
+				"enableGruesomeScreams": true,
+				"vanillaWeaponSounds": false
+			}
+		},
+		"BloodAndGore": {
+			"bloodAmountScale": 1.0,
+			"enableBlood": true,
+			"enableTileBlood": true,
+			"goreStay": false,
+			"maxBloodChunks": 15,
+			"maxGores": 350
+		},
+		"Camera": {
+			"dialogueFixCamera": true,
+			"dialogueZoomIn": true,
+			"earthquakesScreenshake": true,
+			"fixedCamera": false,
+			"screenShakeStrength": 1.0,
+			"smoothCamera": true
+		},
+		"Net": {
+			"allowPatreonChecks": true,
+			"allowUpdateChecks": true
+		},
+		"Other": {
+			"advancedSmartCursorControls": true,
+			"chatColor": "255,255,255,255",
+			"emoteHotkeys": [
+				"DEFAULT/KAG/Exclamation",
+				"DEFAULT/KAG/Smile",
+				"DEFAULT/KAG/Sad",
+				"DEFAULT/KAG/Mad",
+				"DEFAULT/KAG/Tongue",
+				"DEFAULT/KAG/Confused",
+				"DEFAULT/KAG/Rekt",
+				"DEFAULT/KAG/Rage",
+				"DEFAULT/KAG/Derp",
+				"DEFAULT/KAG/Question"
+			],
+			"enableLightingOptimization": true,
+			"enableModPackJudge": true,
+			"showOSCursor": false
+		},
+		"UI": {
+			"detailedMeleeDamage": true,
+			"disableDamageNumbers": false,
+			"disableEnemyHealthbars": false,
+			"disableTextBlinking": false,
+			"showKeyHints": true,
+			"showWeaponInUI": false
+		},
+		"Visuals": {
+			"enableFireEffects": true,
+			"enableSnowOverlays": true,
+			"noPlayerHeadRotation": false,
+			"smokeAmountScale": 0.5
+		}
+	},
+	"Debug": {
+		"allowDebug": false,
+		"createMonoModDumps": false,
+		"logEverything": false,
+		"logPackets": false,
+		"neverBlockExceptions": false,
+		"skipDetours": false
+	},
+	"Global": {
+		"Gameplay": {
+			"BannerRework": {
+				"enabled": true
+			},
+			"CritRework": {
+				"enabled": true
+			},
+			"Durability": {
+				"enabled": false
+			},
+			"FireSystem": {
+				"enabled": true,
+				"torchesStartFires": false
+			},
+			"HookPhysics": {
+				"enabled": false
+			},
+			"ItemOverhauls": {
+				"enabled": true
+			},
+			"Misc": {
+				"enableArrowSticking": true,
+				"enableFloods": true,
+				"enableHolidays": true,
+				"enableItemBouncing": false,
+				"enableTreeFallingAnimation": true,
+				"forcePvP": false,
+				"limitItemVelocity": false
+			},
+			"NPCBehaviour": {
+				"enableSpotting": true
+			}
+		}
+	},
+	"help": "type ''/oConfig'' in chat to reload configuration without restarting (works for servers too).",
+	"IsValid": true,
+	"Other": {}
+}
