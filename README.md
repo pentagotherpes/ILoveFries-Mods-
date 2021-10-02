@@ -26,5 +26,5 @@
 * * *
 1. Install all files and follow tutorial on [Releases](https://github.com/pentagotherpes/ILoveFries-Mods-/releases/tag/Alpha).
 
-2. [Main Mods](https://drive.google.com/u/0/uc?export=download&confirm=FNx2&id=1d5wquCw6s1IMx6I25bbWnp9544JrXbmW).
+2.Must Install [Mods](https://drive.google.com/u/0/uc?export=download&confirm=FNx2&id=1d5wquCw6s1IMx6I25bbWnp9544JrXbmW) to use pack.
 * * *
