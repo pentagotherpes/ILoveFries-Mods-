@@ -1,34 +1,30 @@
-# Foobar
+# ILoveFries ModPack [![Mod Releases](https://img.shields.io/github/v/release/pentagotherpes/ILoveFries-Mods-?color=red&label=Releases&style=flat-square)](https://github.com/pentagotherpes/ILoveFries-Mods-/releases/tag/Alpha)
 
-Foobar is a Python library for dealing with word pluralization.
 
-## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+## Authors
+- [@Jay !#2923](https://discord.gg/~~~~~~~~) Mod Manager
+- [@penta#0638](https://discord.gg/~~~~~~~~) GitHub Contributer
 
-```bash
-pip install foobar
-```
+# Installation Guide
 
-## Usage
+**You need base game terraria and tmodloader on steam (Important).**
 
-```python
-import foobar
+***Tmod Installation:***
 
-# returns 'words'
-foobar.pluralize('word')
+* * *
 
-# returns 'geese'
-foobar.pluralize('goose')
+1. Install [TModLoader64bit](https://drive.google.com/u/0/uc?export=download&confirm=Qn6k&id=1KNA48ZIBAdzFT1GLPsrv0XPdnOW8d56p) and extract all files.
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+2. Move all files into the TmodLoader Directory fount at `C:\Program Files (x86)\Steam\steamapps\common\tModLoader\`
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+3. Open `tModLoader64Bit.exe`
 
-Please make sure to update tests as appropriate.
+* * *
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+***Mods Installation:***
+* * *
+1. Install all files and follow tutorial on [Releases](https://github.com/pentagotherpes/ILoveFries-Mods-/releases/tag/Alpha).
+
+2. Must Install [Mods](https://drive.google.com/u/0/uc?export=download&confirm=FNx2&id=1d5wquCw6s1IMx6I25bbWnp9544JrXbmW) to use pack.
+* * *
