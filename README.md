@@ -14,7 +14,7 @@
 
 * * *
 
-1. Install [TModLoader64bit](https://drive.google.com/file/d/1KNA48ZIBAdzFT1GLPsrv0XPdnOW8d56p/view?usp=sharing) and extract all files.
+1. Install [TModLoader64bit](https://drive.google.com/u/0/uc?export=download&confirm=Qn6k&id=1KNA48ZIBAdzFT1GLPsrv0XPdnOW8d56p) and extract all files.
 
 2. Move all files into the TmodLoader Directory fount at `C:\Program Files (x86)\Steam\steamapps\common\tModLoader\`
 
