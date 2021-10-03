@@ -20,20 +20,20 @@
 			}
 		},
 		"BloodAndGore": {
-			"bloodAmountScale": 1.0,
+			"bloodAmountScale": 0.5,
 			"enableBlood": true,
 			"enableTileBlood": true,
 			"goreStay": false,
-			"maxBloodChunks": 15,
-			"maxGores": 350
+			"maxBloodChunks": 5,
+			"maxGores": 100
 		},
 		"Camera": {
 			"dialogueFixCamera": true,
 			"dialogueZoomIn": true,
 			"earthquakesScreenshake": true,
-			"fixedCamera": false,
-			"screenShakeStrength": 1.0,
-			"smoothCamera": true
+			"fixedCamera": true,
+			"screenShakeStrength": 0.5,
+			"smoothCamera": false
 		},
 		"Net": {
 			"allowPatreonChecks": true,
@@ -67,10 +67,10 @@
 			"showWeaponInUI": false
 		},
 		"Visuals": {
-			"enableFireEffects": true,
+			"enableFireEffects": false,
 			"enableSnowOverlays": true,
 			"noPlayerHeadRotation": false,
-			"smokeAmountScale": 0.5
+			"smokeAmountScale": 0.25
 		}
 	},
 	"Debug": {
@@ -104,7 +104,7 @@
 			},
 			"Misc": {
 				"enableArrowSticking": true,
-				"enableFloods": true,
+				"enableFloods": false,
 				"enableHolidays": true,
 				"enableItemBouncing": false,
 				"enableTreeFallingAnimation": true,
