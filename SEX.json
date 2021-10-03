@@ -15,8 +15,6 @@
   "Census",
   "chadsfurni",
   "Consolaria",
-  "Edorbis",
-  "Emitters",
   "ExpandedSentries",
   "Fargowiltas",
   "FargowiltasMusic",
@@ -24,7 +22,6 @@
   "FargowiltasSoulsDLC",
   "FlyingMinionsIgnoreTerrain",
   "FullHealthRespawn",
-  "HamstarHelpers",
   "HelpfulHotkeys",
   "imkSushisMod",
   "imkSushisModOldRecipesEnabler",
@@ -45,7 +42,6 @@
   "Redemption",
   "RedemptionMusic",
   "ReducedGrinding",
-  "SacredTools",
   "ShopExpander",
   "SmartDoors",
   "SOTS",
@@ -65,6 +61,5 @@
   "WingsStatsAndHookStats",
   "Wireless",
   "WMITF",
-  "ZephsChatNotifications",
   "ZephsImprovedTooltips"
 ]
