@@ -1,4 +1,4 @@
-# ILoveFries ModPack [![Mod Releases](https://img.shields.io/github/v/release/pentagotherpes/ILoveFries-Mods-?color=red&label=Releases&logoColor=red)](https://github.com/pentagotherpes/ILoveFries-Mods-/releases/tag/Alpha)
+# ILoveFries ModPack [![Mod Releases](https://img.shields.io/github/v/release/pentagotherpes/ILoveFries-Mods-?color=red&label=Releases&logoColor=red)](https://github.com/pentagotherpes/ILoveFries-Mods-/releases/latest)
 
 
 
